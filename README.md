@@ -1,1 +1,1 @@
-# JS_Lesson6
+Домашнее задание в рамках учебного курса GeekBrains JavaScript. Урок5
